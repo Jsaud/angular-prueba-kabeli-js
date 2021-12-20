@@ -11,15 +11,25 @@ git clone https://github.com/Jsaud/angular-prueba-kabeli-js.git
 ```
 cd angular-prueba-kabeli-js
 ```
+3. Instalar comando de angular
 
-3. Instalar todas las librerias del proyecto
+```
+npm i @angular/cli -g
+```
+
+4. Instalar todas las librerias del proyecto
 
 ```
 npm install
 ```
 
-4. Levantar el proyecto
+5. Levantar el proyecto
 
 ```
 ng serve
+```
+6. Ir a la ruta
+
+```
+http://localhost:4200/
 ```
