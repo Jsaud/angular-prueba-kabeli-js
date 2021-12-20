@@ -1,9 +1,9 @@
 ## Pasos para instalar en entorno local
 
-1. Clonar proyecto [Github]() con el comando
+1. Clonar proyecto con el comando
 
 ```
-git clone
+git clone https://github.com/Jsaud/angular-prueba-kabeli-js.git
 ```
 
 2. Ir a la ruta del proyecto
