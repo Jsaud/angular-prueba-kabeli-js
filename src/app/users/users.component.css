@@ -1,0 +1,9 @@
+.btn-submit {
+  background-color: #794592;
+  color: #ffff;
+  margin-right: 10px;
+}
+
+.list-group-item.active {
+  background-color: #9364a8;
+}
